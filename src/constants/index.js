@@ -1,0 +1,11 @@
+const FIVE_SECONDS = 5000;
+const TEN_SECONDS = 10000;
+const THIRTY_MINS = 30 * 60 * 1000;
+const THIRTY_SECONDS = 30 * 1000;
+
+module.exports = {
+	FIVE_SECONDS,
+	TEN_SECONDS,
+	THIRTY_MINS,
+	THIRTY_SECONDS,
+};
